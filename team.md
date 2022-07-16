@@ -1,12 +1,12 @@
 ---
-title: Team
+title: Equipe
 layout: teams
-description: Team
-permalink: "/team/"
+description: Equipe
+permalink: "/equipe/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Notre équipe
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+L'équipe de votre pharmacie est constituée de 5 pharmaciens, 2 préparateurs en pharmacie et 1 étudiante.
