@@ -1,8 +1,8 @@
 ---
 title: Equipe
 layout: teams
-description: Team
-permalink: "/team/"
+description: Equipe
+permalink: "/equipe/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
